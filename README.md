@@ -4,11 +4,11 @@ This project is an experiment to create vocabulary supported short programs. Eac
 
 # Examples that happen to overlap with English commands
 
-"drive home"
-
 "turn TV off"
 
 "turn volume down"
+
+"download pictures [from] trailcam"
 
 # How does it work
 
