@@ -1,4 +1,4 @@
-# tint-lm
+# tiny-lm
 
 This project is an experiment to create vocabulary supported short programs. Each program consists of only one, two, or three words with no grammar rules.
 
